@@ -1,8 +1,8 @@
 let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	name: "The Recursive Tree",
+	id: "recursionionionionionion",
+	author: "JmeJuniper",
+	pointsName: "recursions",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -13,14 +13,11 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1...",
+	name: "Added adder to add adder adders that add adder adder adder adders to help add adders that add adder adders...",
 }
 
-let changelog = `<h1>Changelog:</h1><br>
-	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+let changelog = `1*1/1*1/1*1/1*1/1...`
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 
